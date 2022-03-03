@@ -16,4 +16,6 @@
 
 **8-firstdelete** script is used for Delete the file betty
 
-**9-firstdirdeletion** script is used for deleteing the my_first_directory directory 
+**9-firstdirdeletion** script is used for deleteing the my_first_directory directory
+
+**10-back** script is used for changes the working directory to the previous one
