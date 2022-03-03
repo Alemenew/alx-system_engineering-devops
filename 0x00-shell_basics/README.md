@@ -15,3 +15,5 @@
 **7-movethatfile** script is used for moving the file betty from /tmp/ to /tmp/my_first_directory
 
 **8-firstdelete** script is used for Delete the file betty
+
+**9-firstdirdeletion** script is used for deleteing the my_first_directory directory 
