@@ -27,3 +27,5 @@
 **13-symbolic_link** script is used to  create a symbolic link to
 
 **14-copy_html** script is used to copies all the HTML files from the current working directory to the parent of the working directory
+
+**100-lets_move** script is used to move all files beginning with an uppercase
