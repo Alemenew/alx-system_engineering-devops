@@ -19,3 +19,5 @@
 **9-firstdirdeletion** script is used for deleteing the my_first_directory directory
 
 **10-back** script is used for changes the working directory to the previous one
+
+**11-lists** script is used for current directory and the parent of the working directory and the boot directory as long form and hidden files 
