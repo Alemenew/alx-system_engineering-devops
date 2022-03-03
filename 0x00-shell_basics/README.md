@@ -29,3 +29,5 @@
 **14-copy_html** script is used to copies all the HTML files from the current working directory to the parent of the working directory
 
 **100-lets_move** script is used to move all files beginning with an uppercase
+
+**101-clean_emacs** script is used to deletes all files in the current working directory that end with the character ~
