@@ -23,3 +23,5 @@
 **11-lists** script is used for current directory and the parent of the working directory and the boot directory as long form and hidden files
 
 **12-file_type** script is used for print the type of the file named
+
+**13-symbolic_link** script is used to  create a symbolic link to
