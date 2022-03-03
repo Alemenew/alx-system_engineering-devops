@@ -10,6 +10,8 @@
 
 **5-listfilesdigitonly** script is used for  to display longe format of  user and group IDs displayed numerically including hidden files
 
-**my_first_directory** script is used for creates a directory named my_first_directory in the /tmp/
+**6-firstdirectory** script is used for creates a directory named my_first_directory in the /tmp/
 
-**/tmp/my_first_directory** script is used for moving the file betty from /tmp/ to /tmp/my_first_directory
+**7-movethatfile** script is used for moving the file betty from /tmp/ to /tmp/my_first_directory
+
+**8-firstdelete** script is used for Delete the file betty
