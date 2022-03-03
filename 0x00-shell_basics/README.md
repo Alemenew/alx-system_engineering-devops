@@ -31,3 +31,5 @@
 **100-lets_move** script is used to move all files beginning with an uppercase
 
 **101-clean_emacs** script is used to deletes all files in the current working directory that end with the character ~
+
+**102-tree** script is used to creates those directories welcome/to/school
