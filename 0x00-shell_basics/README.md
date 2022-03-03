@@ -25,3 +25,5 @@
 **12-file_type** script is used for print the type of the file named
 
 **13-symbolic_link** script is used to  create a symbolic link to
+
+**14-copy_html** script is used to copies all the HTML files from the current working directory to the parent of the working directory
