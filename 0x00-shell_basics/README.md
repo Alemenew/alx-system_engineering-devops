@@ -6,4 +6,6 @@
 
 **3-listfiles** script is used for Display current directory contents in a long format
 
-**4-listmorefiles** script is used for Display hidden files 
+**4-listmorefiles** script is used for Display hidden files
+
+**5-listfilesdigitonly** script is used for  to display longe format of  user and group IDs displayed numerically including hidden files
