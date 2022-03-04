@@ -21,3 +21,5 @@
 **10-mirror_permissions** script is used for copy the permission for olleh to hello.
 
 **11-directories_permissions** script used to adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+
+**12-directory_permissions** script used to create a directory called my_dir with permissions 751 
