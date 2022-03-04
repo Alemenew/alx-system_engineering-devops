@@ -9,3 +9,5 @@
 **hello** script is used for creating empty file.
 
 **5-execute** script is used for to add execute permission to the owner of the file hello.
+
+**6-multiple_permissions** script is used for to adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
