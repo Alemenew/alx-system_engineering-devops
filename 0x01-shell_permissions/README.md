@@ -15,3 +15,5 @@
 **7-everybody** script is used for add exection permission to the owner the group and other user to hello file.
 
 **8-James_Bond** script is used for owners and group have 0 permission and other users have all permission.
+
+**9-John_Doe** script is used for changing mode of the file hello like this -rwxr-x-wx
