@@ -11,3 +11,5 @@
 **5-execute** script is used for to add execute permission to the owner of the file hello.
 
 **6-multiple_permissions** script is used for to adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+
+**7-everybody** script is used for add exection permission to the owner the group and other user to hello file. 
