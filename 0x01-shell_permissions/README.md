@@ -16,4 +16,6 @@
 
 **8-James_Bond** script is used for owners and group have 0 permission and other users have all permission.
 
-**9-John_Doe** script is used for changing mode of the file hello like this -rwxr-x-wx
+**9-John_Doe** script is used for changing mode of the file hello like this -rwxr-x-wx.
+
+**10-mirror_permissions** script is used for copy the permission for olleh to hello.
