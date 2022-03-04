@@ -12,4 +12,6 @@
 
 **6-multiple_permissions** script is used for to adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 
-**7-everybody** script is used for add exection permission to the owner the group and other user to hello file. 
+**7-everybody** script is used for add exection permission to the owner the group and other user to hello file.
+
+**8-James_Bond** script is used for owners and group have 0 permission and other users have all permission.
