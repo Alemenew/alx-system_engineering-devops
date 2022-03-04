@@ -22,4 +22,6 @@
 
 **11-directories_permissions** script used to adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
-**12-directory_permissions** script used to create a directory called my_dir with permissions 751 
+**12-directory_permissions** script used to create a directory called my_dir with permissions 751
+
+**13-change_group** script used to  changes the group owner to school for the file hello
