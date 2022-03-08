@@ -17,3 +17,5 @@ Redirection means when we are using our command line we are always interacting i
 **2-hellofile** This script is used to display the content of /etc/passwd
 
 **3-twofiles** This script is used to display two files at ones by using the less command 
+
+**4-lastlines** This script is used to display the last 10 lions of /etc/passwd by using tail command 
