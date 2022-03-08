@@ -27,3 +27,5 @@ Redirection means when we are using our command line we are always interacting i
 
 **ls_cwd_content** This script is used redirecting the out put of ls -la in the file ls_cwd_content.
 **9-duplicate_last_line** This script is used to duplicates the file iacta by using redirecting standard output we can append the result on the iacta file. 
+
+**10-no_more_js** This script is used for deleting the file with the extension .js in the courrent directory and in all subdirectory i use grep Filter to search .js keye words and to access the subdirectory i am using -r opions.
