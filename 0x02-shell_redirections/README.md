@@ -8,7 +8,7 @@ Redirection means when we are using our command line we are always interacting i
 
 **Input redirection** (<) accepting from file instead of keyboard.
 
-**Redirection error ** is putting error on the file
+**Redirection error** is putting error on the file
 
 **0-hello_world** This script is used for printing hello world.
 
