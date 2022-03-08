@@ -29,3 +29,6 @@ Redirection means when we are using our command line we are always interacting i
 **9-duplicate_last_line** This script is used to duplicates the file iacta by using redirecting standard output we can append the result on the iacta file. 
 
 **10-no_more_js** This script is used for deleting the file with the extension .js in the courrent directory and in all subdirectory .js keye word.
+
+**11-directories** This script is used for counts the number of directories and sub directories in the in the courent directory including hiden directorys.
+ 
