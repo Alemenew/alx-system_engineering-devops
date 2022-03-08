@@ -10,4 +10,5 @@ Redirection means when we are using our command line we are always interacting i
 "*" Redirection error is putting error on the file 
 
 **0-hello_world** This script is used for printing hello world.
- 
+
+**1-confused_smiley** This script is used for printing confused smiley  
