@@ -15,3 +15,5 @@ Redirection means when we are using our command line we are always interacting i
 **1-confused_smiley** This script is used for printing confused smiley
   
 **2-hellofile** This script is used to display the content of /etc/passwd
+
+**3-twofiles** This script is used to display two files at ones by using the less command 
