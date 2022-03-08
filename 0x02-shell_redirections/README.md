@@ -4,8 +4,11 @@ This project is used to learn about standard input and output redirection
 
 Redirection means when we are using our command line we are always interacting in 3 ways :-  input ,output ,and error.
 
-'*' Output redirection ( >)  putting our output or result in files instead of printing on the screen.
-'*' Input redirection (<) accepting from file instead of keyboard.
-'*' Redirection error is putting error on the file 
+"*" Output redirection ( >)  putting our output or result in files instead of printing on the screen.
+"*" Input redirection (<) accepting from file instead of keyboard.
 
+"*" Redirection error is putting error on the file 
 
+**0-hello_world** This script is used for printing hello world.
+
+**1-confused_smiley** This script is used for printing confused smiley  
