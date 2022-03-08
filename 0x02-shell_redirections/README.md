@@ -25,4 +25,5 @@ Redirection means when we are using our command line we are always interacting i
 **6-third_line** This script is used to print a secific lines of a file by using head and tail file 
 **7-file** script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
-**ls_cwd_content** This script is used redirecting the out put of ls -la in the file ls_cwd_content
+**ls_cwd_content** This script is used redirecting the out put of ls -la in the file ls_cwd_content.
+**9-duplicate_last_line** This script is used to duplicates the file iacta by using redirecting standard output we can append the result on the iacta file. 
