@@ -21,3 +21,5 @@ Redirection means when we are using our command line we are always interacting i
 **4-lastlines** This script is used to display the last 10 lions of /etc/passwd by using tail command 
 
 **5-firstlines** This script is used to display the first 10 lions of /etc/passwd by using head command.
+
+**6-third_line** This script is used to print a secific lines of a file by using awk 'NR==3' file 
