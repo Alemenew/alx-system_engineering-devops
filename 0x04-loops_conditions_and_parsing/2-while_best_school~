@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# This script is printing Best School 10 times by using while loop
-n = 0
-while [ $n -lt 10 ]
-do
-    echo "Bast School"
-    ((n++ ))
-done
