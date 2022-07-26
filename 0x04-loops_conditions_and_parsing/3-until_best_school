@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Thsi scrept is used for to print best school by using until
+
+n=0
+until [ $n -ge 9 ]
+do
+    echo "Best School"
+    (( n++ ))
+done
