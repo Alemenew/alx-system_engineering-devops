@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # This script is displaying "Best School" for all iteration except 
 #"bad luch" at 4 and "goodluck" at 8 iteration
 
