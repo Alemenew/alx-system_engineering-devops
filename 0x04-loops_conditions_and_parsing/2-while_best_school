@@ -4,6 +4,6 @@
 n=0
 while [ $n -lt 10 ]
 do
-    echo "Bast School"
+    echo "Best School"
     (( n++ ))
 done
